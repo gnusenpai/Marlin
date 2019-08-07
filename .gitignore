@@ -164,10 +164,4 @@ cmake-build-*
 
 # Python
 __pycache__
-
-# IOLogger logs
-*_log.csv
-
-# Simulation / Native
-eeprom.dat
-imgui.ini
+venv
